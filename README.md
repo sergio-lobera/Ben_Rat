@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/images/icon.png" width="30%" />
+  <img src="https://zennashop.com/images/icon.png" width="30%" />
   <h1 align="center">Zen RAT</h1>
   <h3>Advanced and powerful Android device controlling tool with a wide range of features and capabilities</h3>
   <h4>This software is exclusively designed for educational purposes ⚠️</h4>
@@ -20,8 +20,8 @@
 - <strong>Simple and straightforward:</strong> Navigating the Zen admin dashboard is a breeze, eliminating the need for any cumbersome troubleshooting to accomplish tasks.
 
 <p float="left">
-  <img src="/images/prv1.png" width="30%" />
-  <img src="/images/prv2.png" width="58%" />
+  <img src="https://zennashop.com/images/prv1.png" width="30%" />
+  <img src="https://zennashop.com/images/prv2.png" width="58%" />
 </p>
 
 ### Powerful file manager
@@ -30,8 +30,8 @@
 - <strong>Store files on Telegram bot:</strong> In addition to storing files on your admin dashboard, Zen will also automatically send downloaded files to your designated Telegram bot.
 
 <p float="left">
-  <img src="/images/prv3.png" width="40%" />
-  <img src="/images/prv4.png" width="40%" />
+  <img src="https://zennashop.com/images/prv3.png" width="40%" />
+  <img src="https://zennashop.com/images/prv4.png" width="40%" />
 </p>
 
 ### Live camera and microphone
@@ -40,22 +40,22 @@
 - <strong>Play from specker:</strong> With this feature, you can activate your own device's microphone and play its audio output through the target device.
 
 <p float="left">
-  <img src="/images/prv5.png" width="40%" />
-  <img src="/images/prv6.png" width="40%" />
+  <img src="https://zennashop.com/images/prv5.png" width="40%" />
+  <img src="https://zennashop.com/images/prv6.png" width="40%" />
 </p>
 
 ### Screenshot
 - <strong>Using this feature, you can capture screenshots from the target device and receive them directly in the dashboard.</strong>
 
 <p float="left">
-  <img src="/images/prv7.png" width="50%" />
+  <img src="https://zennashop.com/images/prv7.png" width="50%" />
 </p>
 
 ### Live location
 - <strong>Obtain real-time location updates for the precise target device on the map.</strong>
 
 <p float="left">
-  <img src="/images/prv8.png" width="50%" />
+  <img src="https://zennashop.com/images/prv8.png" width="50%" />
 </p>
 
 
@@ -64,7 +64,7 @@
 - <strong>Show notifications with custom title and URL:</strong> With this feature you will be able to show notifications on target device with custom URl to open after clicking the notification.
 
 <p float="left">
-  <img src="/images/prv9.png" width="50%" />
+  <img src="https://zennashop.com/images/prv9.png" width="50%" />
 </p>
 
 ### Sms manager
@@ -73,7 +73,7 @@
 - <strong>Send SMS:</strong> You can send SMS to desire number using this feature.
 
 <p float="left">
-  <img src="/images/prv10.png" width="50%" />
+  <img src="https://zennashop.com/images/prv10.png" width="50%" />
 </p>
 
 ### Contact manager
@@ -81,7 +81,7 @@
 - <strong>Access to all call logs</strong>
 
 <p float="left">
-  <img src="/images/prv11.png" width="50%" />
+  <img src="https://zennashop.com/images/prv11.png" width="50%" />
 </p>
 
 ### Auto permission grant
@@ -100,8 +100,8 @@
 - <strong>Logging all visible content on the screen:</strong> Zen can capture and log all visable content in screen such as social media chats, browser history, etc.
 
 <p float="left">
-  <img src="/images/prv12.png" width="40%" />
-  <img src="/images/prv13.png" width="40%" />
+  <img src="https://zennashop.com/images/prv12.png" width="40%" />
+  <img src="https://zennashop.com/images/prv13.png" width="40%" />
 </p>
 
 ### Device admin
@@ -110,14 +110,14 @@
 - <strong>Wipe data:</strong> Using this feature, you can erase all files on the target device and perform a factory reset on the device.
 
 <p float="left">
-  <img src="/images/prv14.png" width="50%" />
+  <img src="https://zennashop.com/images/prv14.png" width="50%" />
 </p>
 
 ### Installed apps
 - <strong>Access all installed apps</strong>
 
 <p float="left">
-  <img src="/images/prv15.png" width="50%" />
+  <img src="https://zennashop.com/images/prv15.png" width="50%" />
 </p>
 
 ### Misc Features
@@ -126,8 +126,8 @@
 - <strong> Volume control:</strong> With this feature, you can adjust the sound volume of the target device to a custom level.</strong>
 
 <p float="left">
-  <img src="/images/prv16.png" width="40%" />
-  <img src="/images/prv17.png" width="40%" />
+  <img src="https://zennashop.com/images/prv16.png" width="40%" />
+  <img src="https://zennashop.com/images/prv17.png" width="40%" />
 </p>
 
 ## How to use
