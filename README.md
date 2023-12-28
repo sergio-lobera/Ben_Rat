@@ -4,6 +4,21 @@
   <h3>Advanced and powerful Android device controlling tool with a wide range of features and capabilities</h3>
   <h4>This software is exclusively designed for educational purposes ⚠️</h4>
 </div>
+#Buy Now
+<div align="center">
+  <a href="https://telegram.me/EvlfDevzsell">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
+
+# Recently added new features 2024
+- End to end encryption
+- Hide ( IP address, URL,) AES encryption
+- All string and code encrypt AES encryption
+- Fully secured Rat Features added anyone not decompile your rat 
+- Rat dashboard two types GUI graphical design panel ( Web panel our App)
+- Full source code editable (if you want extra features) payment extra features list send teligram
+
 
 ## About Zen
 #### The ultimate Android device control tool, empowering you with seamless, secure, and limitless control over target device  
@@ -131,7 +146,7 @@
 </p>
 
 ## How to use
-### If you are interested in Zen, you can find more information by reaching out to our [Telegram channel](https://teligram.me/EvlfDevzsell):
+### If you are interested in Zen, you can find more information by reaching out to our [Telegram channel](https://telegram.me/EvlfDevzsell):
 
 <div align="center">
   <a href="https://telegram.me/EvlfDevzsell">
