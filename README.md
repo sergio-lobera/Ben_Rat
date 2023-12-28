@@ -134,7 +134,7 @@
 ### If you are interested in Zen, you can find more information by reaching out to our [Telegram channel](https://teligram.me/EvlfDevzsell):
 
 <div align="center">
-  <a href="https://teligram.me/EvlfDevzsell">
+  <a href="https://telegram.me/EvlfDevzsell">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
