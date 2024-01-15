@@ -12,6 +12,8 @@
   </a>
 </div>
 
+
+
 # Recently added new features 2024
 - End to end encryption
 - Hide ( IP address, URL,) AES encryption
