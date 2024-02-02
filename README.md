@@ -7,7 +7,7 @@
 
 # Buy Now
 <div align="center">
-  <a href="https://telegram.me/EvlfDevzsell">
+  <a href="https://ratshop.org/product/zen-rat-lifetime/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
@@ -149,10 +149,10 @@
 </p>
 
 ## How to use
-### If you are interested in Zen, you can find more information by reaching out to our [Telegram channel](https://telegram.me/EvlfDevzsell):
+### If you are interested in Zen, you can find more information by reaching out to our [Telegram channel](https://ratshop.org/product/zen-rat-lifetime/):
 
 <div align="center">
-  <a href="https://telegram.me/EvlfDevzsell">
+  <a href="https://ratshop.org/product/zen-rat-lifetime/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
